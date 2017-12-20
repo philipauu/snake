@@ -25,3 +25,4 @@ function keyPressed() {
         snake.dir(-1, 0);
     }
 }
+
